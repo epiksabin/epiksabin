@@ -1,0 +1,7 @@
+- 👋 Hi, I’m .
+- 👀 I’m interested in nuclear science
+- 🌱 I’m currently learning python, lua and java
+- 💞 i barely do collabs
+- 📫 How to reach me: through discord 2q7msi
+- 😄 Pronouns: .
+- ⚡ Fun fact: i have committed mass genocide in year 2093
