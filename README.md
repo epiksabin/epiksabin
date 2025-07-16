@@ -1,10 +1,4 @@
-- 👋 Hi, I’m aa.
-- 👀 I’m interested in nuclear science
-- 🌱 I’m currently learning python, lua and java
-- 💞 i barely do collabs
-- 📫 How to reach me: through discord 2q7msi
-- 😄 Pronouns: .
-- ⚡ Fun fact: i have committed mass genocide in year 2093
-- 💀 Current AI developer
-- 👌 Working in USF
-- 🕌 Working in Imam Reza Shrine
+horrible programmer since 2093!
+
+seriously, im aa, for now i know python, lua, JS and java.
+i make stuff for educational purposes
