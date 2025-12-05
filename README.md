@@ -2,6 +2,8 @@ hello everybody my name is markiplier
 
 anyways, im a master polymath (self proclaimed) and a master multi-tasker
 
+my other account: [the lAG](https://github.com/laggiestguy)
+
 for now, i know
 - JS, TS {intermediate-advanced}
 - Python {full}
