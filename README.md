@@ -18,4 +18,15 @@ i also do
 - "educational purposes" things
 - more stuff
 
+ever wondered about my conventions? (probably not):
+- my comments are mostly lowercase
+- My README.md or Documentations are professional
+- usually i do comments like
+```cpp
+/*
+  comment
+*/
+// comment
+```
+
 i hate github
