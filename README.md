@@ -1,4 +1,4 @@
-hello everybody my name is markiplier
+hello everybody my name is aa
 
 anyways, im a master polymath (self proclaimed) and a master multi-tasker
 
@@ -10,17 +10,20 @@ for now, i know
 - C++, C {full} (yes i read a 300 page book for one topic for variables)
 - Java {advanced}
 - Rust (🥀) {beginner}
-- assembly (💀) {beginner}
+- assembly (💀) {intermediate}
 
 i also do
 - stuff development
+- hardware
+- software
+- low-level development
 - cybersecurity
 - "educational purposes" things
 - more stuff
 
 ever wondered about my conventions? (probably not):
 - my comments are mostly lowercase
-- My README.md or Documentations are professional
+- My README.md or Documentations are professional (very)
 - usually i do comments like
 ```cpp
 /*
@@ -29,4 +32,5 @@ ever wondered about my conventions? (probably not):
 // comment
 ```
 
-i hate github
+a quote goes like:
+"When you know assembly, all software becomes opensource!"
