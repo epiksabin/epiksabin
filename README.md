@@ -4,6 +4,8 @@ anyways, im a master polymath (self proclaimed) and a master multi-tasker
 
 my other account: [the lAG](https://github.com/laggiestguy)
 
+# Founder of Y-LABS Datacenter, Research and IT Company
+
 for now, i know
 - JS, TS {intermediate-advanced}
 - Python {full}
