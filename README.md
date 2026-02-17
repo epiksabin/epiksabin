@@ -1,8 +1,10 @@
 **aa**
+
 *Founder of Y-LABS, Research and IT Company*
 
 # About -=-=-
 - 🔷 im a developer, working on private and sometimes open-source projects
+
 **Polymath | Self-taught**
 
 # Languages Known -=-=-
