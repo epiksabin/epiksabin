@@ -27,6 +27,8 @@
 # Misc Info -=-=-
 other account: [the lAG](https://github.com/laggiestguy)
 
+spawnpoint is set in iran
+
 along with coding and stuff, i also do:
 - 📗 Religious Studies *(Islam specifically)*
 - 📕 Philosophy
