@@ -1,38 +1,41 @@
-hello everybody my name is aa
+**aa**
+*Founder of Y-LABS, Research and IT Company*
 
-anyways, im a master polymath (self proclaimed) and a master multi-tasker
+# About -=-=-
+- 🔷 im a developer, working on private and sometimes open-source projects
+**Polymath | Self-taught**
 
-my other account: [the lAG](https://github.com/laggiestguy)
+# Languages Known -=-=-
+- ⚙️ C++, C {mastered} *(yes i read a 300 page book for one topic about variables)*
+- 🐍 Python {mastered}
+- 🟡 JS, TS {intermediate-advanced}
+- 💾 Assembly {intermediate} *(usually i do x64)*
+- ☕ Java {intermediate}
+- 🦀 Rust {beginner} (i lowkey hate this one)
 
-# Founder of Y-LABS Datacenter, Research and IT Company
+# Specialization -=-=-
+- 🖥️ Full Stack development *(frontend and backend)*
+- 💽 Low-Level/Systems development
+- 🛡️ Cybersecurity development
+- 👾 Game development *(gameplay, engine, graphics and tools)*
+- 📊 Data/AI/ML development
+- 📐 Research, Algorithms and Math development
+- 🌙 Dark-Horse Territory Research & Development
 
-for now, i know
-- JS, TS {intermediate-advanced}
-- Python {full}
-- C++, C {full} (yes i read a 300 page book for one topic for variables)
-- Java {advanced}
-- Rust (🥀) {beginner}
-- assembly (💀) {intermediate}
+# Misc Info -=-=-
+other account: [the lAG](https://github.com/laggiestguy)
+along with coding and stuff, i also do:
+- 📗 Religious Studies *(Islam specifically)*
+- 📽️ Content Creation
+- 🎩 English
+- 🎓 Teaching *(programming)*
 
-i also do
-- stuff development
-- hardware
-- software
-- low-level development
-- cybersecurity
-- "educational purposes" things
-- more stuff
+# FAQ -=-=-
+Q: **Whats your favorite IDE?**
+A: **vscode**
 
-ever wondered about my conventions? (probably not):
-- my comments are mostly lowercase
-- My README.md or Documentations are professional (very)
-- usually i do comments like
-```cpp
-/*
-  comment
-*/
-// comment
-```
+Q: **Whats your favorite language?**
+A: **Farsi and C++**
 
 a quote goes like:
-"When you know assembly, all software becomes opensource!"
+"When you know assembly, all software becomes open-source!" - some guy idk but funny
