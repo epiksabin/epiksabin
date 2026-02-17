@@ -24,6 +24,7 @@
 
 # Misc Info -=-=-
 other account: [the lAG](https://github.com/laggiestguy)
+
 along with coding and stuff, i also do:
 - 📗 Religious Studies *(Islam specifically)*
 - 📽️ Content Creation
@@ -31,11 +32,11 @@ along with coding and stuff, i also do:
 - 🎓 Teaching *(programming)*
 
 # FAQ -=-=-
-Q: **Whats your favorite IDE?**
-A: **vscode**
+- Q: **Whats your favorite IDE?**
+  - A: **vscode**
 
-Q: **Whats your favorite language?**
-A: **Farsi and C++**
+- Q: **Whats your favorite language?**
+  - A: **Farsi and C++**
 
 a quote goes like:
 "When you know assembly, all software becomes open-source!" - some guy idk but funny
