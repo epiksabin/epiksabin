@@ -3,9 +3,7 @@
 *Founder of Y-LABS, Research and IT Company*
 
 # About -=-=-
-- 🔷 im a developer, working on private and sometimes open-source projects
-
-**Polymath | Self-taught**
+- 🔷 im a developer, working on private and sometimes open-source projects. and im self-taught
 
 # Languages Known -=-=-
 - ⚙️ C++, C {mastered} *(yes i read a 300 page book for one topic about variables)*
