@@ -35,6 +35,7 @@ along with coding and stuff, i also do:
 - 🎓 Teaching *(programming)*
 - 🔧 Software & Hardware repais
 - 🪙 Trading
+- 🧠 Psychology
 
 # FAQ -=-=-
 - Q: **Whats your favorite IDE?**
