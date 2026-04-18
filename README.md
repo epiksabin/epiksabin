@@ -1,5 +1,7 @@
 **aa**
 
+*i just got back from internet blackout*
+
 *Founder of Y-LABS, Research and IT Company*
 
 # About -=-=-
