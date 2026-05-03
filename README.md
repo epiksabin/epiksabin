@@ -1,6 +1,6 @@
 **aa**
 
-*i just got back from internet blackout*
+May God help us
 
 *Founder of Y-LABS, Research and IT Company*
 
