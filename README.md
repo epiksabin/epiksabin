@@ -48,3 +48,7 @@ along with coding and stuff, i also do:
 
 a quote goes like:
 "When you know assembly, all software becomes open-source!" - some guy idk but funny
+
+# Hate corner -=-=-
+- i will never forgive higher-ups who supressed internet for "security" reasons, or used/fabricated islam to spread their own corrupt, putrid ideology.
+- Haqq-al Nas is a serious sin in islam... yet they claim to be islamic.
