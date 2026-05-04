@@ -8,7 +8,7 @@ May God help us
 - 🔷 im a developer, working on private and sometimes open-source projects. and im self-taught
 
 # Languages Known -=-=-
-- ⚙️ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) {mastered} *(yes i read a 300 page book for one topic about variables)*
+- ⚙️ C++ {mastered} *(yes i read a 300 page book for one topic about variables)*
 - 🐍 Python {mastered}
 - 🟡 JS, TS {intermediate-advanced}
 - 💾 Assembly {intermediate} *(usually i do x64)*
