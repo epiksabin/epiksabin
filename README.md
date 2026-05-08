@@ -12,6 +12,7 @@
 - 💾 Assembly {intermediate}
 - ☕ Java {intermediate}
 - 🦀 Rust {beginner}
+
 *Misc*:
 - 🌐 HTML/CSS
 
