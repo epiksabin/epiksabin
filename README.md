@@ -4,11 +4,13 @@
 > *Founder of Y-LABS, Research and IT Company*
 
 <h1 align="center">-=-=- About -=-=-</h1>
+
 - 🔷 I'm a developer, working on private and sometimes open-source projects. To mention, I'm self-taught.
 - 🔶 My most interesting project: ETCA (Einstein Tiles Compression Algorithm)
 - 🟨 IELTS score: 8.0
 
 <h1 align="center">-=-=- Known Languages -=-=-</h1>
+
 - ⚙️ C++ {mastered}
   - ↪ That *little* bit of performance is important to me.
 - 🐍 Python {mastered}
@@ -27,6 +29,7 @@
   - ↪ Can't leave a building without interior design
 
 <h1 align="center">-=-=- Specialization -=-=-</h1> 
+
 - 🖥️ Full Stack development *(frontend and backend)*
 - 💽 Low-Level/Systems development
 - 🛡️ Cybersecurity development
@@ -36,11 +39,13 @@
 - 🌙 Dark-Horse Territory Research & Development
 
 <h1 align="center">-=-=- Intrests -=-=-</h1>
+
 - 🕌 Islam
 - ☢️ Nuclear Science
 - 🪐 Astrophysics
 
 <h1 align="center">-=-=- FaQ -=-=-</h1>
+
 - Q: **Whats your favorite IDE?**
   - A: **Honestly, I can't go wrong with VSCode**
 
