@@ -48,10 +48,3 @@ along with coding and stuff, i also do:
 
 a quote goes like:
 "When you know assembly, all software becomes open-source!" - some guy idk but funny
-
-# Hate corner -=-=-
-- i will never forgive higher-ups who supressed internet for "security" reasons, or used/fabricated islam to spread their own corrupt, putrid ideology.
-- Haqq-al Nas is a serious sin in islam... yet they claim to be islamic.
-- We are not Mossad/CIA agents, nor we are backed by them. We just need, freedom. A place to breathe. A place that there's no putrid ideology dominance. A place with no sanctions. Just so we can feel the taste of freedom, that never happened in this 47 years. Why.
-- What has Israel caused, that your putrid, islamic ideology says we must destroy it from the face of earth?
-- Aren't YOU the monarchy? Don't you think you have ANY difference with them, but even worse? Mojtaba came to be crowned as next "leader". You have created hierarchies, and ruined many, many adult's futures look darker than a blackhole's event horizon. Have you ever took a look into your own country's economy?
