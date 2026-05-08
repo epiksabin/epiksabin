@@ -28,16 +28,8 @@
 - 🌐 HTML/CSS
   - ↪ Can't leave a building without interior design
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=epiksabin&show_icons=true&theme=radical"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epiksabin&layout=compact&theme=radical"/>
-    </td>
-  </tr>
-</table>
+![git out](https://github-readme-stats.vercel.app/api?username=epiksabin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epiksabin&layout=compact&theme=radical)
 
 <h1 align="center">-=-=- Specialization -=-=-</h1> 
 
