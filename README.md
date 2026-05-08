@@ -28,6 +28,17 @@
 - 🌐 HTML/CSS
   - ↪ Can't leave a building without interior design
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=epiksabin&show_icons=true&theme=radical"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epiksabin&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
+
 <h1 align="center">-=-=- Specialization -=-=-</h1> 
 
 - 🖥️ Full Stack development *(frontend and backend)*
@@ -44,7 +55,7 @@
 - ☢️ Nuclear Science
 - 🪐 Astrophysics
 
-<h1 align="center">-=-=- FaQ -=-=-</h1>
+<h1 align="center">-=-=- FAQ -=-=-</h1>
 
 - Q: **Whats your favorite IDE?**
   - A: **Honestly, I can't go wrong with VSCode**
