@@ -1,11 +1,8 @@
-**aa**
-
-May God help us
-
 *Founder of Y-LABS, Research and IT Company*
 
 # About -=-=-
-- 🔷 im a developer, working on private and sometimes open-source projects. and im self-taught
+- 🔷 I'm a developer, working on private and sometimes open-source projects. and im self-taught
+- 🔶 My most interesting project: ETCA (Einstein Tiles Compression Algorithm)
 
 # Languages Known -=-=-
 - ⚙️ C++ {mastered} *(yes i read a 300 page book for one topic about variables)*
@@ -25,9 +22,8 @@ May God help us
 - 🌙 Dark-Horse Territory Research & Development
 
 # Misc Info -=-=-
-other account: [the lAG](https://github.com/laggiestguy)
-
-spawnpoint is set in iran
+- 🛏️ Spawnpoint is set in iran (unfortunately)
+- 🆘 Stressed.
 
 along with coding and stuff, i also do:
 - 🕌 Religious Studies *(Islam specifically)*
