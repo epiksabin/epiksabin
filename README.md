@@ -1,16 +1,19 @@
 *Founder of Y-LABS, Research and IT Company*
 
 # About -=-=-
-- 🔷 I'm a developer, working on private and sometimes open-source projects. and im self-taught
+- 🔷 I'm a developer, working on private and sometimes open-source projects. To mention, I'm self-taught.
 - 🔶 My most interesting project: ETCA (Einstein Tiles Compression Algorithm)
+- 🟨 IELTS score: 8.5
 
 # Languages Known -=-=-
-- ⚙️ C++ {mastered} *(yes i read a 300 page book for one topic about variables)*
+- ⚙️ C++ {mastered}
 - 🐍 Python {mastered}
 - 🟡 JS, TS {intermediate-advanced}
-- 💾 Assembly {intermediate} *(usually i do x64)*
+- 💾 Assembly {intermediate}
 - ☕ Java {intermediate}
-- 🦀 Rust {beginner} (i lowkey hate this one)
+- 🦀 Rust {beginner}
+*Misc*:
+- 🌐 HTML/CSS
 
 # Specialization -=-=-
 - 🖥️ Full Stack development *(frontend and backend)*
@@ -23,7 +26,7 @@
 
 # Misc Info -=-=-
 - 🛏️ Spawnpoint is set in iran (unfortunately)
-- 🆘 Stressed.
+- 🆘 Extremely stressed.
 
 along with coding and stuff, i also do:
 - 🕌 Religious Studies *(Islam specifically)*
@@ -41,6 +44,9 @@ along with coding and stuff, i also do:
 
 - Q: **Whats your favorite language?**
   - A: **Farsi and C++**
+
+- Q: **Do you like your country?**
+  - A: **Can't give a definite answer. Probably like a quantum superposition, but it feels like a event horizon of a blackhole here.**
 
 a quote goes like:
 "When you know assembly, all software becomes open-source!" - some guy idk but funny
