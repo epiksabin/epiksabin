@@ -1,7 +1,6 @@
 > *Founder of Y-LABS, Research and IT Company*
 
-> چو ایران نباشد تن من مباد
-
+<p align="center"> چو ایران نباشد تن من مباد </p>
 <p align="center">If there is no Iran, may my body not exist.</p>
 
 # About -=-=-
