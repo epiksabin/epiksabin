@@ -8,7 +8,7 @@
 - 🔶 My most interesting project: ETCA (Einstein Tiles Compression Algorithm)
 - 🟨 IELTS score: 8.0
 
-# Languages Known -=-=-
+<h1 align="center">-=-=- Known Languages -=-=-</h1>
 - ⚙️ C++ {mastered}
   - ↪ That *little* bit of performance is important to me.
 - 🐍 Python {mastered}
@@ -26,7 +26,7 @@
 - 🌐 HTML/CSS
   - ↪ Can't leave a building without interior design
 
-# Specialization -=-=-
+<h1 align="center">-=-=- Specialization -=-=-</h1> 
 - 🖥️ Full Stack development *(frontend and backend)*
 - 💽 Low-Level/Systems development
 - 🛡️ Cybersecurity development
@@ -35,12 +35,12 @@
 - 📐 Research, Algorithms and Math development
 - 🌙 Dark-Horse Territory Research & Development
 
-# Intrests -=-=-
+<h1 align="center">-=-=- Intrests -=-=-</h1>
 - 🕌 Islam
 - ☢️ Nuclear Science
 - 🪐 Astrophysics
 
-# FAQ -=-=-
+<h1 align="center">-=-=- FaQ -=-=-</h1>
 - Q: **Whats your favorite IDE?**
   - A: **Honestly, I can't go wrong with VSCode**
 
