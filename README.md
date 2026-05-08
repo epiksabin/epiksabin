@@ -28,9 +28,10 @@
 - 🌐 HTML/CSS
   - ↪ Can't leave a building without interior design
 
-<h2 align="center"> -=- Status -=- </h2>
+<h3> Status -=- </h3>
 
 ![](https://github-readme-stats.shion.dev/api?username=epiksabin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=epiksabin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h1 align="center">-=-=- Specialization -=-=-</h1> 
