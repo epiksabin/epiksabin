@@ -31,12 +31,11 @@
 along with coding and stuff, i also do:
 - 🕌 Religious Studies *(Islam specifically)*
 - 📕 Philosophy
-- 📽️ Content Creation
-- 🎩 English
 - 🎓 Teaching *(programming)*
-- 🔧 Software & Hardware repais
+- 🔧 Software & Hardware repairs
 - 🪙 Trading
-- 🧠 Psychology
+- ☢️ Nuclear science?
+- 🪐 Astronomy/astrophysics?
 
 # FAQ -=-=-
 - Q: **Whats your favorite IDE?**
