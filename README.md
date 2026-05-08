@@ -5,18 +5,25 @@
 # About -=-=-
 - 🔷 I'm a developer, working on private and sometimes open-source projects. To mention, I'm self-taught.
 - 🔶 My most interesting project: ETCA (Einstein Tiles Compression Algorithm)
-- 🟨 IELTS score: 8.5
+- 🟨 IELTS score: 8.0
 
 # Languages Known -=-=-
 - ⚙️ C++ {mastered}
+  - ↪ That *little* bit of performance is important to me.
 - 🐍 Python {mastered}
+  - ↪ Faster scripting, faster automation. Can't forget AI.
 - 🟡 JS, TS {intermediate-advanced}
+  - ↪ NodeJS or websites, very useful.
 - 💾 Assembly {intermediate}
+  - ↪ Reverse engineering, aiding in cybersecurity.
 - ☕ Java {intermediate}
+  - ↪ Enterprise average. Maybe Minecraft.
 - 🦀 Rust {beginner}
+  - ↪ That *little* bit of performance, but with safety.
 
 *Misc*:
 - 🌐 HTML/CSS
+  - ↪ Can't leave a building without interior design
 
 # Specialization -=-=-
 - 🖥️ Full Stack development *(frontend and backend)*
@@ -27,28 +34,23 @@
 - 📐 Research, Algorithms and Math development
 - 🌙 Dark-Horse Territory Research & Development
 
-# Misc Info -=-=-
-- 🛏️ Spawnpoint is set in iran (unfortunately)
-- 🆘 Extremely stressed.
-
-along with coding and stuff, i also do:
-- 🕌 Religious Studies *(Islam specifically)*
-- 📕 Philosophy
-- 🎓 Teaching *(programming)*
-- 🔧 Software & Hardware repairs
-- 🪙 Trading
-- ☢️ Nuclear science?
-- 🪐 Astronomy/astrophysics?
+# Intrests -=-=-
+- 🕌 Islam
+- ☢️ Nuclear Science
+- 🪐 Astrophysics
 
 # FAQ -=-=-
 - Q: **Whats your favorite IDE?**
-  - A: **vscode**
+  - A: **Honestly, I can't go wrong with VSCode**
 
 - Q: **Whats your favorite language?**
-  - A: **Farsi and C++**
+  - A: **Parsi and C++**
+ 
+- Q: **Why is your README.md like this?**
+  - A: **Cause I spiced it up with a little humor**
 
 - Q: **Do you like your country?**
   - A: **Can't give a definite answer. Probably like a quantum superposition, but it feels like a event horizon of a blackhole here.**
 
-a quote goes like:
-"When you know assembly, all software becomes open-source!" - some guy idk but funny
+Quote:
+> "When you know assembly, all software becomes open-source!"
