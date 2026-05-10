@@ -6,7 +6,7 @@
 <h1 align="center">-=-=- About -=-=-</h1>
 
 - 🔷 I'm a developer, working on private and sometimes open-source projects. To mention, I'm self-taught.
-- 🔶 My most interesting project: ETCA (Einstein Tiles Compression Algorithm)
+- 🔶 My most interesting project: [ETCA](https://github.com/epiksabin/ETCA "Awesome project") (Einstein Tiles Compression Algorithm)
 - 🟨 IELTS score: 8.0
 
 <h1 align="center">-=-=- Known Languages -=-=-</h1>
