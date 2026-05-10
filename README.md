@@ -59,7 +59,7 @@
   - A: **Parsi and C++**
  
 - Q: **Why is your README.md like this?**
-  - A: **Cause I spiced it up with a little humor**
+  - A: **Cause I spiced it up with a little humor (*nobody likes bland food, right?*)**
 
 - Q: **Do you like your country?**
   - A: **Can't give a definite answer. Probably like a quantum superposition, but it feels like a event horizon of a blackhole here.**
