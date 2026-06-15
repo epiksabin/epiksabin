@@ -11,18 +11,16 @@
 
 <h1 align="center">-=-=- Known Languages -=-=-</h1>
 
-- ⚙️ C++ {mastered}
+- ⚙️ C++ {Highly Proficient}
   - ↪ That *little* bit of performance is important to me.
-- 🐍 Python {mastered}
-  - ↪ Faster scripting, faster automation. Can't forget AI.
-- 🟡 JS, TS {intermediate-advanced}
-  - ↪ NodeJS or websites, very useful.
-- 💾 Assembly {intermediate}
-  - ↪ Reverse engineering, aiding in cybersecurity.
-- ☕ Java {intermediate}
-  - ↪ Enterprise average. Maybe Minecraft.
-- 🦀 Rust {beginner}
+- 🦀 Rust {Highly Proficient}
   - ↪ That *little* bit of performance, but with safety.
+- 🐍 Python {Highly Proficient}
+  - ↪ Faster scripting, faster automation. Can't forget AI.
+- 🟡 JS, TS {Intermediate-Advanced}
+  - ↪ NodeJS or websites, very useful.
+- 💾 Assembly {Intermediate}
+  - ↪ Reverse engineering, aiding in cybersecurity.
 
 *Misc*:
 - 🌐 HTML/CSS
@@ -39,8 +37,6 @@
 - 🖥️ Full Stack development *(frontend and backend)*
 - 💽 Low-Level/Systems development
 - 🛡️ Cybersecurity development
-- 👾 Game development *(gameplay, engine, graphics and tools)*
-- 📊 Data/AI/ML development
 - 📐 Research, Algorithms and Math development
 - 🌙 Dark-Horse Territory Research & Development
 
