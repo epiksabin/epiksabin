@@ -1,11 +1,11 @@
 <p align="center"> چو ایران نباشد تن من مباد </p>
 <p align="center">If there is no Iran, may my body not exist.</p>
 
-> *Founder of Y-LABS, Research and IT Company*
+> *Founder of IRI-LABS, Research and IT Company*
 
 <h1 align="center">-=-=- About -=-=-</h1>
 
-- 🔷 I'm a developer, working on private and sometimes open-source projects. To mention, I'm self-taught.
+- 🔷 I'm a experienced developer, working on private and sometimes open-source projects. To mention, I'm self-taught.
 - 🔶 My most interesting project: [ETCA](https://github.com/epiksabin/ETCA "Awesome project") (Einstein Tiles Compression Algorithm) & [YlOS](https://github.com/epiksabin/YlOS)
 - 🟨 IELTS score: 8.0
 
@@ -58,10 +58,10 @@
   - A: **Parsi and C++**
  
 - Q: **Why is your README.md like this?**
-  - A: **Cause I spiced it up with a little humor (*nobody likes bland food, right?*)**
+  - A: **Cause I spiced it up with a little humor (*nobody likes bland food, right..?*)**
 
 - Q: **Do you like your country?**
-  - A: **Can't give a definite answer. Probably like a quantum superposition, but it feels like a event horizon of a blackhole here.**
+  - A: **Can't give a definite answer, but I love it in here**
 
 Quote:
-> "When you know assembly, all software becomes open-source!"
+> "Sometimes it's worth being up late, tired as hell, just to get a app working"
